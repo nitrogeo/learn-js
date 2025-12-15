@@ -1,3 +1,6 @@
+:root {
+  --accent: hsl(197, 100%, 67%);
+}
 body{
     font-family: Inter, sans-serif;
     font-weight: bold;
@@ -8,15 +11,15 @@ body{
 }
 h1{
     font-size: 3.5rem;
-    color: hsl(197, 100%, 67%);
+    color: var(--accent);
 }
 .choices{
     margin-bottom: 30px;
 }
 .choices button{
     font-size: 7.5rem;
-    min-width: 160px;
+    min-width: 67px;
     margin: 0 10px;
     border-radius: 25px;
-    background-color: aqua;
+    background-color: var(--accent);
 }
