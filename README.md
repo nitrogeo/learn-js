@@ -1,20 +1,2 @@
 # learn-js
 
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>nitro's js</title>
-</head>
-<body>
-    <h1>games</h1>
-    <div>
-        <ul>
-            <li><a href="rps/">rock paper scissors</a></li>
-        </ul>
-    </div>
-</body>
-</html>
-```
